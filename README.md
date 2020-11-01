@@ -8,6 +8,8 @@ ESP32とFirebaseを使ったシステムを構築中です。
 もともと1つのプライベートリポジトリで開発していたので、
 Docker化を進めつつ小分けにして公開できる状態にしたものを置いています。
 
+主にRaspberry Pi + Arduinoのセンサクライアント、PHP + PythonのDB・API・フロントサーバの構成を想定しています。
+
 [![aoirint/RSWeb](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSWeb)](https://github.com/aoirint/RSWeb)
 [![aoirint/RSSensorConnector](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSSensorConnector)](https://github.com/aoirint/RSSensorConnector)
 [![aoirint/RSSensorArduino](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSSensorArduino)](https://github.com/aoirint/RSSensorArduino)
@@ -17,6 +19,8 @@ Docker化を進めつつ小分けにして公開できる状態にしたもの�
 [![aoirint/RSGPUStatClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSGPUStatClient)](https://github.com/aoirint/RSGPUStatClient)
 
 ### 準備中
+公開準備中なものです。
+
 [![aoirint/RSSpeedWifiHomeDataInfoClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSSpeedWifiHomeDataInfoClient)](https://github.com/aoirint/RSSpeedWifiHomeDataInfoClient)
 [![aoirint/RSSpeedWifiHomeUserInfoClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSSpeedWifiHomeUserInfoClient)](https://github.com/aoirint/RSSpeedWifiHomeUserInfoClient)
 [![aoirint/RSWANIPChecker](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSWANIPChecker)](https://github.com/aoirint/RSWANIPChecker)
