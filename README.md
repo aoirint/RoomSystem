@@ -3,6 +3,8 @@
 ESP32とFirebaseを使ったシステムを構築中です。
 
 [![aoirint/RoomSystemSensorESP32](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorESP32)](https://github.com/aoirint/RoomSystemSensorESP32)
+[![aoirint/room-system-firebase](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=room-system-firebase)](https://github.com/aoirint/room-system-firebase)
+
 
 ## 古いシステム（-2020/10、開発終了）
 もともと1つのプライベートリポジトリで開発していたので、
