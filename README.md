@@ -1,6 +1,18 @@
 # 部屋センシング・オンライン化システム
 ## 新しいシステム（2020/11-、開発中）
-ESP32とFirebaseを使ったシステムを構築中です。
+Arduino・Raspberry Pi・Firebaseを使ったシステムを構築中です。
+
+[![aoirint/RoomSystemSensorArduino](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorArduino)](https://github.com/aoirint/RoomSystemSensorArduino)
+[![aoirint/RoomSystemSensorConnector](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorConnector)](https://github.com/aoirint/RoomSystemSensorConnector)
+[![aoirint/RoomSystemBotServerTeams](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemBotServerTeams)](https://github.com/aoirint/RoomSystemBotServerTeams)
+[![aoirint/RoomSystemBotClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemBotClient)](https://github.com/aoirint/RoomSystemBotClient)
+
+
+## 試験開発システム（2020/11-、開発終了）
+ESP32とFirebaseを使ったシステムを構築していました。
+試験の結果、プログラム更新するにはハードウェアに接続する必要が出てくるため、
+シリアル通信でいいじゃないか、ということになりました。
+センサをたくさん付けるような場合には物理接続の手間がないこちらの方がよさそうです。
 
 [![aoirint/RoomSystemSensorESP32](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorESP32)](https://github.com/aoirint/RoomSystemSensorESP32)
 [![aoirint/room-system-firebase](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=room-system-firebase)](https://github.com/aoirint/room-system-firebase)
