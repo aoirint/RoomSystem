@@ -8,14 +8,14 @@ Arduino・Raspberry Pi・Firebaseを使ったシステムを構築中です。
 [![aoirint/RoomSystemBotClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemBotClient)](https://github.com/aoirint/RoomSystemBotClient)
 
 
-## 試験開発システム（2020/11-、開発終了）
+## 試験開発システム（2020/11、開発終了）
 ESP32とFirebaseを使ったシステムを構築していました。
 試験の結果、プログラム更新するにはハードウェアに接続する必要が出てくるため、
 シリアル通信でいいじゃないか、ということになりました。
 センサをたくさん付けるような場合には物理接続の手間がないこちらの方がよさそうです。
 
 [![aoirint/RoomSystemSensorESP32](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorESP32)](https://github.com/aoirint/RoomSystemSensorESP32)
-[![aoirint/room-system-firebase](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=room-system-firebase)](https://github.com/aoirint/room-system-firebase)
+[![aoirint/room-system-esp32-firebase](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=room-system-esp32-firebase)](https://github.com/aoirint/room-system-esp32-firebase)
 
 
 ## 古いシステム（-2020/10、開発終了）
