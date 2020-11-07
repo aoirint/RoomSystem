@@ -4,7 +4,7 @@ Arduino・Raspberry Pi・Firebaseを使ったシステムを構築中です。
 
 [![aoirint/RoomSystemSensorArduino](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorArduino)](https://github.com/aoirint/RoomSystemSensorArduino)
 [![aoirint/RoomSystemSensorConnector](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorConnector)](https://github.com/aoirint/RoomSystemSensorConnector)
-[![aoirint/RoomSystemBotServerTeams](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemBotServerTeams)](https://github.com/aoirint/RoomSystemBotServerTeams)
+[![aoirint/room-system-firebase](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=room-system-firebase)](https://github.com/aoirint/room-system-firebase)
 [![aoirint/RoomSystemBotClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemBotClient)](https://github.com/aoirint/RoomSystemBotClient)
 
 
