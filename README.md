@@ -31,6 +31,7 @@ Docker化を進めつつ小分けにして公開できる状態にしたもの�
 [![aoirint/RSDoorBellServer](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSDoorBellServer)](https://github.com/aoirint/RSDoorBellServer)
 [![aoirint/RSAdventurer3](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSAdventurer3)](https://github.com/aoirint/RSAdventurer3)
 [![aoirint/RSGPUStatClient](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSGPUStatClient)](https://github.com/aoirint/RSGPUStatClient)
+[![aoirint/Mnemosyne](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=Mnemosyne)](https://github.com/aoirint/Mnemosyne)
 
 ### 準備中
 公開準備中なものです。
