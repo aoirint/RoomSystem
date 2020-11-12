@@ -41,7 +41,7 @@ Docker化を進めつつ小分けにして公開できる状態にしたもの�
 [![aoirint/RSFreenomDDNS](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RSFreenomDDNS)](https://github.com/aoirint/RSFreenomDDNS)
 
 ### フォーク
-ファームウェアアップデートに仮対応したものです（実験中）。
+Adventurer 3のファームウェアアップデートに仮対応したものです（実験中）。
 最終更新以降は動作確認してないです。
 
 [![Fork of 01F0/flashforge-finder-api](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=flashforge-finder-api)](https://github.com/aoirint/flashforge-finder-api)
