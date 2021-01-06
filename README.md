@@ -2,6 +2,8 @@
 ## 新しいシステム（2020/11-、開発中）
 Arduino・Raspberry Pi・Firebaseを使ったシステムを構築中です。
 
+![RoomSystemFrontend](https://i.imgur.com/3rEpFwO.png)
+
 [![aoirint/RoomSystemSensorArduino](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorArduino)](https://github.com/aoirint/RoomSystemSensorArduino)
 [![aoirint/RoomSystemSensorConnector](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=RoomSystemSensorConnector)](https://github.com/aoirint/RoomSystemSensorConnector)
 [![aoirint/room-system-firebase](https://github-readme-stats.vercel.app/api/pin/?username=aoirint&repo=room-system-firebase)](https://github.com/aoirint/room-system-firebase)
